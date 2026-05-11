@@ -1,0 +1,14 @@
+"Actual","Predicted","Count"
+"Moderate","Moderate",1017
+"Stable","Moderate",313
+"Long","Moderate",274
+"Long","Long",151
+"Moderate","Long",89
+"Stable","Long",74
+"Moderate","Stable",68
+"Stable","Stable",51
+"Long","Stable",47
+"Short","Moderate",5
+"Short","Short",3
+"Moderate","Short",2
+"Stable","Short",1

@@ -1,0 +1,5 @@
+"Model","Accuracy"
+"RF - Baseline",0.547494033412888
+"RF - Sequence",0.56563245823389
+"RF - Structure",0.483054892601432
+"RF - Combined",0.583293556085919
