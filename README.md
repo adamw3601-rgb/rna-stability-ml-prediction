@@ -1,4 +1,5 @@
-# B528 – Final Project
+rna-stability-ml-prediction
+
 
 **Author:** Adam Wait  
 **Date:** 04/29/2026  
