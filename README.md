@@ -110,7 +110,3 @@ Each output summarizes model performance or visualizes prediction results.
   Performs regression and classification modeling, evaluates performance, and generates output files and figures.
 
 ---
-
-## Generative AI Disclosure
-
-Generative AI tools were used for limited debugging assistance, code organization, and clarification of modeling and data processing steps. All final code, analysis decisions, and results were reviewed, validated, and understood by the author.
